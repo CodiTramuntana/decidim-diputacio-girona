@@ -1,5 +1,7 @@
 # DiputacioGironaApp developments
 
+NOTICE: This repository has moved to: https://github.com/diputaciodegirona/decidim-diputacio-girona.git
+
 ## Deploying the app
 
 Deployed with [Capistrano](http://capistranorb.com/) using [Figaro](https://github.com/laserlemon/figaro) for `ENV` configuration.
